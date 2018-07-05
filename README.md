@@ -1,6 +1,6 @@
 # Angular 5 boilerplate
 
-Simple angular 5 boilerplate
+Simple angular 5 starter kit
 
 Includes:
 - Angular 5
